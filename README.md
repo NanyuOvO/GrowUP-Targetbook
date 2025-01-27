@@ -1,0 +1,2 @@
+# GrowUP-TargetBook
+GrowUP是一款由楠雨完全独立开发的目标记事本应用程序，目前适用于Windows计算机并持续由楠雨开发更新
